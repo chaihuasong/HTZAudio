@@ -33,11 +33,11 @@
 			maven { url 'https://jitpack.io' }
 		}
 	}`
-	
+
 2.app build.gradle
 
 `dependencies {
-	         compile 'com.github.zhangliangming:HPAudio:v2.4'
+	         implementation 'com.github.chaihuasong:HTZAudio:v1.0'
 	}`
 
 # 混淆注意 #
